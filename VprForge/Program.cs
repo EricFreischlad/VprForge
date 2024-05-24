@@ -72,6 +72,6 @@ PartRandomizer CreateStereoDoublePartRandomizer(int seed)
         rngSeed: seed);
 }
 
-string sourceFilePath = "C:\\Users\\Kodakami\\Desktop\\nuclear 2024-02-01T0250.vpr";
-string destinationFilePath = "C:\\Users\\Kodakami\\Desktop\\nuclear 2024-02-01T0250 DOUBLED LINES.vpr";
-StereoDoubleProject(sourceFilePath, destinationFilePath);
+// string sourceFilePath = "[Your source file path]";
+// string destinationFilePath = "[Your destination file path]";
+// StereoDoubleProject(sourceFilePath, destinationFilePath);
